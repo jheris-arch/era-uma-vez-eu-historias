@@ -1,5 +1,111 @@
 {
  "formato": 1,
- "atualizado": "2026-10-28T19:30:37.737Z",
- "historias": []
+ "atualizado": "2026-10-28T23:28:04.484Z",
+ "historias": [
+  {
+   "id": "aniversario-mais-doce",
+   "versao": 1,
+   "lancada": "2026-10-29",
+   "free": false,
+   "color": "#F2A7B8",
+   "title": {
+    "pt-BR": "O aniversário mais doce",
+    "pt-PT": "O aniversário mais doce"
+   },
+   "lesson": {
+    "pt-BR": "Gratidão e amor",
+    "pt-PT": "Gratidão e amor"
+   },
+   "pages": [
+    {
+     "pt-BR": "Era a noite antes do aniversário de {nome}. A casa estava quietinha, mas o coração de {nome} pulava feito pipoca.",
+     "pt-PT": "Era a noite antes do aniversário de {nome}. A casa estava sossegada, mas o coração de {nome} saltava como pipoca."
+    },
+    {
+     "pt-BR": "— Amanhã eu faço mais um ano! — {nome} cochichou para o travesseiro. Mas o sono não vinha de jeito nenhum.",
+     "pt-PT": "— Amanhã faço anos! — sussurrou {nome} à almofada. Mas o sono não vinha de maneira nenhuma."
+    },
+    {
+     "pt-BR": "Foi então que {o carrinho vermelho da prateleira acendeu os faróis, buzinou bem baixinho e deu uma voltinha no ar|o grande laço cor-de-rosa da parede balançou, se desamarrou e deu uma voltinha no ar}.",
+     "pt-PT": "Foi então que {o carrinho vermelho da prateleira acendeu os faróis, apitou muito baixinho e deu uma voltinha no ar|o grande laço cor-de-rosa da parede abanou, se desatou e deu uma voltinha no ar}."
+    },
+    {
+     "pt-BR": "— Psiu! Eu sou {o Faísca — disse o carrinho|a Fita — disse o laço}, bem baixinho. — Quer me ajudar a fazer o bolo mais doce do mundo?",
+     "pt-PT": "— Psiu! Eu sou {o Faísca — disse o carrinho|a Fita — disse o laço}, muito baixinho. — Queres ajudar-me a fazer o bolo mais doce do mundo?"
+    },
+    {
+     "pt-BR": "{nome} {subiu no Faísca|segurou a pontinha da Fita} e, {juntinhos|juntinhas}, saíram {voando|flutuando} pela janela até o jardim.",
+     "pt-PT": "{nome} {subiu para o Faísca|agarrou a pontinha da Fita} e, {juntinhos|juntinhas}, saíram {a voar|a flutuar} pela janela até ao jardim."
+    },
+    {
+     "pt-BR": "No alto, a Lua guardava um potinho de luz. — Um pouquinho de brilho para o recheio — ela disse, sorrindo.",
+     "pt-PT": "Lá no alto, a Lua guardava um frasquinho de luz. — Um bocadinho de brilho para o recheio — disse ela, a sorrir."
+    },
+    {
+     "pt-BR": "Depois, a menor florzinha do jardim abriu as pétalas: — Leve o meu perfume para enfeitar o bolo.",
+     "pt-PT": "Depois, a florinha mais pequenina do jardim abriu as pétalas: — Leva o meu perfume para enfeitar o bolo."
+    },
+    {
+     "pt-BR": "As estrelas jogaram confeitos de açúcar, que caíam devagarinho, brilhando como neve. {nome} riu e abriu as mãos para pegar.",
+     "pt-PT": "As estrelas atiraram confeitos de açúcar, que caíam devagarinho, a brilhar como neve. {nome} riu-se e abriu as mãos para os apanhar."
+    },
+    {
+     "pt-BR": "— Ainda falta o ingrediente mais importante — disse {o Faísca|a Fita}. — E esse não fica no jardim.",
+     "pt-PT": "— Ainda falta o ingrediente mais importante — disse {o Faísca|a Fita}. — E esse não está no jardim."
+    },
+    {
+     "pt-BR": "Voltaram para casa {bem devagarinho|na pontinha dos pés}. Todo mundo dormia quentinho, cada um no seu cantinho.",
+     "pt-PT": "Voltaram para casa {muito devagarinho|em bicos de pés}. Toda a gente dormia quentinha, cada um no seu cantinho."
+    },
+    {
+     "pt-BR": "— O ingrediente que falta é o amor de quem a gente ama — cochichou {o Faísca|a Fita}. E {nome} deu um beijinho em cada pessoa da casa.",
+     "pt-PT": "— O ingrediente que falta é o amor de quem gostamos — sussurrou {o Faísca|a Fita}. E {nome} deu um beijinho a cada pessoa da casa."
+    },
+    {
+     "pt-BR": "— Agora sim! — disse {o Faísca|a Fita}. — Bolo feito com amor é o mais doce de todos. E {nome} bocejou, {quentinho|quentinha} e feliz, de volta na cama.",
+     "pt-PT": "— Agora sim! — disse {o Faísca|a Fita}. — Um bolo feito com amor é o mais doce de todos. E {nome} bocejou, {quentinho|quentinha} e feliz, de volta à cama."
+    },
+    {
+     "pt-BR": "De manhã, {nome} acordou com uma cantoria: — Parabéns pra você! No tapete, esperava um {bolo em forma de carro, azul e branquinho|bolinho branco cheio de florzinhas}.",
+     "pt-PT": "De manhã, {nome} acordou com uma cantoria: — Parabéns a você! No tapete, esperava um {bolo em forma de carro, azul e branquinho|bolinho branco cheio de florinhas}."
+    },
+    {
+     "pt-BR": "{nome} cobriu o rosto com as mãozinhas, de tão feliz. E {o carrinho vermelho da prateleira piscou os faróis para ele|o grande laço da parede piscou para ela}. Feliz aniversário, {nome}!",
+     "pt-PT": "{nome} tapou a cara com as mãozinhas, de tão feliz. E {o carrinho vermelho da prateleira piscou-lhe os faróis|o grande laço da parede piscou-lhe o olho}. Feliz aniversário, {nome}!"
+    }
+   ],
+   "imagens": [
+    "cover",
+    "cover-f",
+    "p01",
+    "p01-f",
+    "p02",
+    "p02-f",
+    "p03",
+    "p03-f",
+    "p04",
+    "p04-f",
+    "p05",
+    "p05-f",
+    "p06",
+    "p06-f",
+    "p07",
+    "p07-f",
+    "p08",
+    "p08-f",
+    "p09",
+    "p09-f",
+    "p10",
+    "p10-f",
+    "p11",
+    "p11-f",
+    "p12",
+    "p12-f",
+    "p13",
+    "p13-f",
+    "p14",
+    "p14-f"
+   ]
+  }
+ ]
 }
