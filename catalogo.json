@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-28T23:28:04.484Z",
+ "atualizado": "2026-10-29T00:25:24.246Z",
  "historias": [
   {
    "id": "aniversario-mais-doce",
@@ -103,6 +103,107 @@
     "p12-f",
     "p13",
     "p13-f",
+    "p14",
+    "p14-f"
+   ]
+  },
+  {
+   "id": "primeiro-banho-de-mar",
+   "versao": 1,
+   "lancada": "2026-10-29",
+   "free": false,
+   "color": "#7FC8F8",
+   "title": {
+    "pt-BR": "O primeiro banho de mar",
+    "pt-PT": "O primeiro banho de mar"
+   },
+   "lesson": {
+    "pt-BR": "Coragem para o novo",
+    "pt-PT": "Coragem para o novo"
+   },
+   "pages": [
+    {
+     "pt-BR": "Era o primeiro dia de férias, e {nome} acordou com um cheirinho de mar entrando pela janela.",
+     "pt-PT": "Era o primeiro dia de férias, e {nome} acordou com um cheirinho a mar a entrar pela janela."
+    },
+    {
+     "pt-BR": "Hoje era um dia especial: os gêmeos Léo e Gabriel iam conhecer o mar pela primeira vez!",
+     "pt-PT": "Hoje era um dia especial: os gémeos Léo e Gabriel iam conhecer o mar pela primeira vez!"
+    },
+    {
+     "pt-BR": "Na areia quentinha, {nome} tirou as sandálias. — Faz cosquinha! — riu {nome}.",
+     "pt-PT": "Na areia quentinha, {nome} tirou as sandálias. — Faz cócegas! — riu-se {nome}."
+    },
+    {
+     "pt-BR": "Léo olhava as ondas bem sério. Gabriel abriu a boca: — Ó! O mar é grandão!",
+     "pt-PT": "O Léo olhava para as ondas muito sério. O Gabriel abriu a boca: — Ó! O mar é enorme!"
+    },
+    {
+     "pt-BR": "Aí veio uma onda correndo, chuááá! E os gêmeos se esconderam atrás de {nome}.",
+     "pt-PT": "Então veio uma onda a correr, chuááá! E os gémeos esconderam-se atrás de {nome}."
+    },
+    {
+     "pt-BR": "— Eu também fiquei com medo na primeira vez — disse {nome}. — Vamos devagarinho?",
+     "pt-PT": "— Eu também tive medo da primeira vez — disse {nome}. — Vamos devagarinho?"
+    },
+    {
+     "pt-BR": "Primeiro, só os pezinhos. A água gelada fez os três darem um gritinho… e depois uma risada.",
+     "pt-PT": "Primeiro, só os pezinhos. A água gelada fez os três darem um gritinho… e depois uma gargalhada."
+    },
+    {
+     "pt-BR": "Depois, encheram o baldinho azul e fizeram um castelo com três torres, uma para cada um.",
+     "pt-PT": "Depois, encheram o baldinho azul e fizeram um castelo com três torres, uma para cada um."
+    },
+    {
+     "pt-BR": "Um siri saiu da toca, deu tchauzinho com a garra e voltou correndo para casa.",
+     "pt-PT": "Um caranguejo saiu da toca, acenou com a pinça e voltou a correr para casa."
+    },
+    {
+     "pt-BR": "— Agora vamos pular a ondinha? — perguntou {nome}, estendendo as duas mãos.",
+     "pt-PT": "— Agora vamos saltar a ondinha? — perguntou {nome}, a estender as duas mãos."
+    },
+    {
+     "pt-BR": "Léo segurou uma mão, Gabriel segurou a outra. Um, dois, três… e pularam juntos!",
+     "pt-PT": "O Léo agarrou uma mão, o Gabriel agarrou a outra. Um, dois, três… e saltaram juntos!"
+    },
+    {
+     "pt-BR": "A ondinha passou fazendo espuminha nos pés. Os gêmeos gargalharam: — De novo! De novo!",
+     "pt-PT": "A ondinha passou a fazer espuminha nos pés. Os gémeos riram às gargalhadas: — Outra vez! Outra vez!"
+    },
+    {
+     "pt-BR": "No fim da tarde, o sol ficou laranja, e o mar foi ficando calminho, calminho.",
+     "pt-PT": "Ao fim da tarde, o sol ficou cor de laranja, e o mar foi ficando calminho, calminho."
+    },
+    {
+     "pt-BR": "Em casa, {nome} deitou {cansadinho|cansadinha} e feliz. Lá longe, o mar cantava baixinho: chuá, chuá… Boa noite.",
+     "pt-PT": "Em casa, {nome} deitou-se {cansadinho|cansadinha} e feliz. Lá longe, o mar cantava baixinho: chuá, chuá… Boa noite."
+    }
+   ],
+   "imagens": [
+    "cover",
+    "cover-f",
+    "p01",
+    "p01-f",
+    "p02",
+    "p03",
+    "p03-f",
+    "p04",
+    "p05",
+    "p05-f",
+    "p06",
+    "p06-f",
+    "p07",
+    "p07-f",
+    "p08",
+    "p08-f",
+    "p09",
+    "p10",
+    "p10-f",
+    "p11",
+    "p11-f",
+    "p12",
+    "p12-f",
+    "p13",
     "p14",
     "p14-f"
    ]
