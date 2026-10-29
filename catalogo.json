@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-29T11:50:51.595Z",
+ "atualizado": "2026-10-29T11:57:09.794Z",
  "historias": [
   {
    "id": "aniversario-mais-doce",
@@ -109,7 +109,7 @@
   },
   {
    "id": "primeiro-banho-de-mar",
-   "versao": 2,
+   "versao": 3,
    "lancada": "2026-10-29",
    "free": false,
    "color": "#7FC8F8",
