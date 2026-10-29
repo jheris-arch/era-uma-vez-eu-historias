@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-29T12:05:43.144Z",
+ "atualizado": "2026-10-29T20:52:13.296Z",
  "historias": [
   {
    "id": "aniversario-mais-doce",
@@ -101,6 +101,107 @@
     "p11-f",
     "p12",
     "p12-f",
+    "p13",
+    "p13-f",
+    "p14",
+    "p14-f"
+   ]
+  },
+  {
+   "id": "bocejo-perdido",
+   "versao": 1,
+   "lancada": "2026-11-05",
+   "free": false,
+   "color": "#B9C3F2",
+   "title": {
+    "pt-BR": "A expedição do bocejo perdido",
+    "pt-PT": "A expedição do bocejo perdido"
+   },
+   "lesson": {
+    "pt-BR": "Hora de desacelerar",
+    "pt-PT": "Hora de abrandar"
+   },
+   "pages": [
+    {
+     "pt-BR": "Era hora de dormir na casa de {nome}. Pijama vestido, dentinhos escovados… mas ninguém bocejava. Nem o papai, nem a mamãe, nem o gato Biscoito.",
+     "pt-PT": "Era hora de dormir em casa de {nome}. Pijama vestido, dentinhos lavados… mas ninguém bocejava. Nem o pai, nem a mãe, nem o gato Biscoito."
+    },
+    {
+     "pt-BR": "— Cadê o Bocejinho? — perguntou a mamãe. O Bocejinho era uma nuvenzinha fofa que fazia todo mundo bocejar. E ele tinha sumido!",
+     "pt-PT": "— Onde está o Bocejinho? — perguntou a mãe. O Bocejinho era uma nuvenzinha fofa que fazia toda a gente bocejar. E tinha desaparecido!"
+    },
+    {
+     "pt-BR": "{nome} pôs a lanterna na cabeça: — Começa a expedição! Marche junto, bem forte: um, dois, um, dois!",
+     "pt-PT": "{nome} pôs a lanterna na cabeça: — Começa a expedição! Marche também, com força: um, dois, um, dois!"
+    },
+    {
+     "pt-BR": "Primeiro, a cozinha. Abriram a geladeira… e só encontraram uma gelatina tremendo de frio. Agora trema também, igualzinho à gelatina!",
+     "pt-PT": "Primeiro, a cozinha. Abriram o frigorífico… e só encontraram uma gelatina a tremer de frio. Agora trema também, tal e qual a gelatina!"
+    },
+    {
+     "pt-BR": "No banheiro, a banheira estava cheia de bolhas de sabão. Nada de bocejo! {nome} estourou as bolhas: pop, pop, pop! Estoure você também, com o dedinho!",
+     "pt-PT": "Na casa de banho, a banheira estava cheia de bolas de sabão. Nada de bocejo! {nome} rebentou as bolas: pop, pop, pop! Rebente também, com o dedinho!"
+    },
+    {
+     "pt-BR": "Debaixo da cama tinha uma meia perdida, um dinossauro de brinquedo e muita poeira. Aaaa… tchim! Faça o espirro mais engraçado que você conseguir!",
+     "pt-PT": "Debaixo da cama havia uma meia perdida, um dinossauro de brinquedo e muito pó. Aaaa… tchim! Faça o espirro mais engraçado que conseguir!"
+    },
+    {
+     "pt-BR": "O papai procurou dentro da própria pantufa. — Aqui não tem bocejo nenhum… só chulé! E todo mundo caiu na gargalhada.",
+     "pt-PT": "O pai procurou dentro da própria pantufa. — Aqui não há bocejo nenhum… só chulé! E toda a gente se desmanchou a rir."
+    },
+    {
+     "pt-BR": "— E se o Bocejinho estiver dentro do gato? O Biscoito abriu a boca bem grande… e saiu só um miau. Mie também, bem alto!",
+     "pt-PT": "— E se o Bocejinho estiver dentro do gato? O Biscoito abriu muito a boca… e só saiu um miau. Mie também, bem alto!"
+    },
+    {
+     "pt-BR": "{nome} teve uma ideia: — Bocejo gosta de lugar quentinho e silencioso. Agora vamos falar só baixinho… psiu.",
+     "pt-PT": "{nome} teve uma ideia: — O bocejo gosta de sítios quentinhos e silenciosos. Agora vamos falar só baixinho… chiu."
+    },
+    {
+     "pt-BR": "E foram até o quarto na pontinha dos pés, devagar, devagarinho… Ande você também, bem devagar, no lugar.",
+     "pt-PT": "E foram até ao quarto em bicos de pés, devagar, devagarinho… Ande também, muito devagar, sem sair do lugar."
+    },
+    {
+     "pt-BR": "E lá estava ele! O Bocejinho cochilava em cima do travesseiro de {nome}, fofinho que nem algodão.",
+     "pt-PT": "E lá estava ele! O Bocejinho dormitava em cima da almofada de {nome}, fofinho como algodão."
+    },
+    {
+     "pt-BR": "Ele abriu um olho, se espreguiçou… e pulou para o papai: aaaaahhh! O papai bocejou. Depois a mamãe. Depois o Biscoito.",
+     "pt-PT": "Abriu um olho, espreguiçou-se… e saltou para o pai: aaaaahhh! O pai bocejou. Depois a mãe. Depois o Biscoito."
+    },
+    {
+     "pt-BR": "Então o Bocejinho pulou para {nome}… e para quem está ouvindo esta história. Abra a boca bem grande… aaaaahhh.",
+     "pt-PT": "Então o Bocejinho saltou para {nome}… e para quem está a ouvir esta história. Abra muito a boca… aaaaahhh."
+    },
+    {
+     "pt-BR": "Bocejo é assim: passa de um para o outro. {nome} se deitou {quentinho|quentinha}, {abraçado|abraçada} ao Bocejinho. Boa noite, expedição!",
+     "pt-PT": "O bocejo é assim: passa de um para o outro. {nome} deitou-se {quentinho|quentinha}, {abraçado|abraçada} ao Bocejinho. Boa noite, expedição!"
+    }
+   ],
+   "imagens": [
+    "cover",
+    "cover-f",
+    "p01",
+    "p01-f",
+    "p02",
+    "p02-f",
+    "p03",
+    "p03-f",
+    "p04",
+    "p04-f",
+    "p05",
+    "p05-f",
+    "p06",
+    "p06-f",
+    "p07",
+    "p08",
+    "p09",
+    "p09-f",
+    "p10",
+    "p10-f",
+    "p11",
+    "p12",
     "p13",
     "p13-f",
     "p14",
