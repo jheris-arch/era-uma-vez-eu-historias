@@ -1,7 +1,111 @@
 {
  "formato": 1,
- "atualizado": "2026-10-29T20:54:03.380Z",
+ "atualizado": "2026-10-30T12:48:30.066Z",
  "historias": [
+  {
+   "id": "ajudante-do-papai-noel",
+   "versao": 1,
+   "lancada": "2026-12-01",
+   "free": false,
+   "color": "#E86A5C",
+   "title": {
+    "pt-BR": "O ajudante especial do Papai Noel",
+    "pt-PT": "O ajudante especial do Pai Natal"
+   },
+   "lesson": {
+    "pt-BR": "Natal é estar junto",
+    "pt-PT": "Natal é estar junto"
+   },
+   "pages": [
+    {
+     "pt-BR": "Era véspera de Natal. A casa de {nome} cheirava a biscoito de gengibre, e a árvore piscava: pisca, pisca, pisca.",
+     "pt-PT": "Era véspera de Natal. A casa de {nome} cheirava a bolachas de gengibre, e a árvore piscava: pisca, pisca, pisca."
+    },
+    {
+     "pt-BR": "Já de pijama, {nome} ouviu um barulhinho na janela: blim-blim! Era uma rena filhote chamada Pipoca, com uma cartinha na boca. Faça o sininho também: blim-blim!",
+     "pt-PT": "Já de pijama, {nome} ouviu um barulhinho na janela: blim-blim! Era uma rena bebé chamada Pipoca, com uma cartinha na boca. Faça o sininho também: blim-blim!"
+    },
+    {
+     "pt-BR": "A carta dizia: \"{nome}, o meu trenó quebrou bem na noite de Natal, e eu preciso de alguém que entenda muito de parafusos e de rampas. Ho, ho, ho! Assinado: Papai Noel.\" Agora faça a risada do Papai Noel: ho, ho, ho!",
+     "pt-PT": "A carta dizia: \"{nome}, o meu trenó avariou mesmo na noite de Natal, e preciso de alguém que perceba muito de parafusos e de rampas. Ho, ho, ho! Assinado: Pai Natal.\" Agora faça a gargalhada do Pai Natal: ho, ho, ho!"
+    },
+    {
+     "pt-BR": "{nome} desceu a rampa da varanda com a Pipoca. No quintal coberto de neve estava o trenó, tortinho, com um dos esquis solto, e o Papai Noel coçando a barba.",
+     "pt-PT": "{nome} desceu a rampa da varanda com a Pipoca. No quintal coberto de neve estava o trenó, torto, com um dos esquis solto, e o Pai Natal a coçar a barba."
+    },
+    {
+     "pt-BR": "{nome} conhece cada parafuso da sua cadeira de rodas, então sabe consertar qualquer coisa! Apertou aqui, girou ali… pronto! Gire as mãos você também, como quem aperta um parafuso!",
+     "pt-PT": "{nome} conhece cada parafuso da sua cadeira de rodas, por isso sabe arranjar qualquer coisa! Apertou aqui, rodou ali… pronto! Rode as mãos também, como quem aperta um parafuso!"
+    },
+    {
+     "pt-BR": "— Você é {o melhor ajudante|a melhor ajudante} do Polo Norte! — disse o Papai Noel. Ele encaixou uma rampa no trenó, e {nome} subiu de cadeira e tudo: vruuum!",
+     "pt-PT": "— És {o melhor ajudante|a melhor ajudante} do Polo Norte! — disse o Pai Natal. Encaixou uma rampa no trenó, e {nome} subiu de cadeira e tudo: vruuum!"
+    },
+    {
+     "pt-BR": "As renas correram, e o trenó voou! Segure firme… incline para a direita… agora para a esquerda!",
+     "pt-PT": "As renas correram, e o trenó voou! Agarre-se bem… incline para a direita… agora para a esquerda!"
+    },
+    {
+     "pt-BR": "Na primeira casa, a chaminé era estreitinha. {nome} teve uma ideia: amarrou o presente numa fita e foi descendo devagar, devagarinho.",
+     "pt-PT": "Na primeira casa, a chaminé era estreitinha. {nome} teve uma ideia: atou o presente a uma fita e foi descendo devagar, devagarinho."
+    },
+    {
+     "pt-BR": "Na casa seguinte tinha uma escada na porta. {nome} empilhou as caixas de presente e fez uma rampa. — Assim todo mundo chega! — disse, rindo.",
+     "pt-PT": "Na casa seguinte havia uma escada à porta. {nome} empilhou as caixas de presente e fez uma rampa. — Assim toda a gente chega! — disse, a rir."
+    },
+    {
+     "pt-BR": "O trenó voou mais calminho por cima da neve que caía. Sopre os floquinhos bem devagar… fuuu.",
+     "pt-PT": "O trenó voou mais calminho por cima da neve que caía. Sopre os flocos muito devagar… fuuu."
+    },
+    {
+     "pt-BR": "A última casa era… a casa de {nome}! Todo mundo dormia. Bem baixinho, {nome} deixou um presente para cada pessoa da família. Pela janela, o Papai Noel piscou: — Vem aqui fora um instantinho!",
+     "pt-PT": "A última casa era… a casa de {nome}! Toda a gente dormia. Muito baixinho, {nome} deixou um presente para cada pessoa da família. Pela janela, o Pai Natal piscou o olho: — Vem cá fora um bocadinho!"
+    },
+    {
+     "pt-BR": "No quintal, o Papai Noel deu a {nome} um sininho dourado. — Obrigado, ajudante — cochichou. — Natal é estar junto de quem a gente ama.",
+     "pt-PT": "No quintal, o Pai Natal deu a {nome} um sininho dourado. — Obrigado, ajudante — sussurrou. — Natal é estar junto de quem mais gostamos."
+    },
+    {
+     "pt-BR": "{nome} voltou para a cama, {quentinho|quentinha}, com o sininho na mão. Lá fora, a Pipoca e as renas sumiram entre as estrelas.",
+     "pt-PT": "{nome} voltou para a cama, {quentinho|quentinha}, com o sininho na mão. Lá fora, a Pipoca e as renas desapareceram entre as estrelas."
+    },
+    {
+     "pt-BR": "De manhã, a família acordou com um blim-blim! Todos se abraçaram perto da árvore. Foi o Natal mais especial de todos. Feliz Natal, {nome}!",
+     "pt-PT": "De manhã, a família acordou com um blim-blim! Todos se abraçaram junto à árvore. Foi o Natal mais especial de todos. Feliz Natal, {nome}!"
+    }
+   ],
+   "imagens": [
+    "cover",
+    "cover-f",
+    "p01",
+    "p01-f",
+    "p02",
+    "p02-f",
+    "p03",
+    "p04",
+    "p04-f",
+    "p05",
+    "p05-f",
+    "p06",
+    "p06-f",
+    "p07",
+    "p07-f",
+    "p08",
+    "p08-f",
+    "p09",
+    "p09-f",
+    "p10",
+    "p10-f",
+    "p11",
+    "p11-f",
+    "p12",
+    "p12-f",
+    "p13",
+    "p13-f",
+    "p14",
+    "p14-f"
+   ]
+  },
   {
    "id": "aniversario-mais-doce",
    "versao": 2,
