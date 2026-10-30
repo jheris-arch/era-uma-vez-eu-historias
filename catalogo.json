@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-30T22:03:04.295Z",
+ "atualizado": "2026-10-30T22:08:19.924Z",
  "historias": [
   {
    "id": "ajudante-do-papai-noel",
@@ -213,7 +213,7 @@
   },
   {
    "id": "bocejo-perdido",
-   "versao": 1,
+   "versao": 2,
    "lancada": "2026-10-29",
    "free": false,
    "color": "#B9C3F2",
@@ -227,12 +227,12 @@
    },
    "pages": [
     {
-     "pt-BR": "Era hora de dormir na casa de {nome}. Pijama vestido, dentinhos escovados… mas ninguém bocejava. Nem o papai, nem a mamãe, nem o gato Biscoito.",
-     "pt-PT": "Era hora de dormir em casa de {nome}. Pijama vestido, dentinhos lavados… mas ninguém bocejava. Nem o pai, nem a mãe, nem o gato Biscoito."
+     "pt-BR": "Era hora de dormir na casa de {nome}. Pijama vestido, dentinhos escovados… mas ninguém bocejava. Nem o {papai}, nem a {mamae}, nem o gato Biscoito.",
+     "pt-PT": "Era hora de dormir em casa de {nome}. Pijama vestido, dentinhos lavados… mas ninguém bocejava. Nem o {papai}, nem a {mamae}, nem o gato Biscoito."
     },
     {
-     "pt-BR": "— Cadê o Bocejinho? — perguntou a mamãe. O Bocejinho era uma nuvenzinha fofa que fazia todo mundo bocejar. E ele tinha sumido!",
-     "pt-PT": "— Onde está o Bocejinho? — perguntou a mãe. O Bocejinho era uma nuvenzinha fofa que fazia toda a gente bocejar. E tinha desaparecido!"
+     "pt-BR": "— Cadê o Bocejinho? — perguntou a {mamae}. O Bocejinho era uma nuvenzinha fofa que fazia todo mundo bocejar. E ele tinha sumido!",
+     "pt-PT": "— Onde está o Bocejinho? — perguntou a {mamae}. O Bocejinho era uma nuvenzinha fofa que fazia toda a gente bocejar. E tinha desaparecido!"
     },
     {
      "pt-BR": "{nome} pôs a lanterna na cabeça: — Começa a expedição! Marche junto, bem forte: um, dois, um, dois!",
@@ -251,8 +251,8 @@
      "pt-PT": "Debaixo da cama havia uma meia perdida, um dinossauro de brinquedo e muito pó. Aaaa… tchim! Faça o espirro mais engraçado que conseguir!"
     },
     {
-     "pt-BR": "O papai procurou dentro da própria pantufa. — Aqui não tem bocejo nenhum… só chulé! E todo mundo caiu na gargalhada.",
-     "pt-PT": "O pai procurou dentro da própria pantufa. — Aqui não há bocejo nenhum… só chulé! E toda a gente se desmanchou a rir."
+     "pt-BR": "O {papai} procurou dentro da própria pantufa. — Aqui não tem bocejo nenhum… só chulé! E todo mundo caiu na gargalhada.",
+     "pt-PT": "O {papai} procurou dentro da própria pantufa. — Aqui não há bocejo nenhum… só chulé! E toda a gente se desmanchou a rir."
     },
     {
      "pt-BR": "— E se o Bocejinho estiver dentro do gato? O Biscoito abriu a boca bem grande… e saiu só um miau. Mie também, bem alto!",
@@ -271,8 +271,8 @@
      "pt-PT": "E lá estava ele! O Bocejinho dormitava em cima da almofada de {nome}, fofinho como algodão."
     },
     {
-     "pt-BR": "Ele abriu um olho, se espreguiçou… e pulou para o papai: aaaaahhh! O papai bocejou. Depois a mamãe. Depois o Biscoito.",
-     "pt-PT": "Abriu um olho, espreguiçou-se… e saltou para o pai: aaaaahhh! O pai bocejou. Depois a mãe. Depois o Biscoito."
+     "pt-BR": "Ele abriu um olho, se espreguiçou… e pulou para o {papai}: aaaaahhh! O {papai} bocejou. Depois a {mamae}. Depois o Biscoito.",
+     "pt-PT": "Abriu um olho, espreguiçou-se… e saltou para o {papai}: aaaaahhh! O {papai} bocejou. Depois a {mamae}. Depois o Biscoito."
     },
     {
      "pt-BR": "Então o Bocejinho pulou para {nome}… e para quem está ouvindo esta história. Abra a boca bem grande… aaaaahhh.",
