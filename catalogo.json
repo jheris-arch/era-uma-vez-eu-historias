@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-31T01:29:17.510Z",
+ "atualizado": "2026-10-31T01:30:37.608Z",
  "historias": [
   {
    "id": "ajudante-do-papai-noel",
@@ -314,7 +314,7 @@
   },
   {
    "id": "ovo-de-dinossauro",
-   "versao": 1,
+   "versao": 2,
    "lancada": "2026-11-15",
    "free": false,
    "color": "#7EC8B6",
@@ -364,8 +364,8 @@
      "pt-PT": "O céu ficou cor de laranja e depois azul-escuro. O Tum-Tum sentou-se na relva e fez um \"rrrí\" muito triste. — Tem saudades da mãe dele — disse o Davi."
     },
     {
-     "pt-BR": "No chão havia pegadas gigantes indo para o fundo do jardim. Os três foram seguindo devagar. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}.",
-     "pt-PT": "No chão havia pegadas gigantes a ir para o fundo do jardim. Os três foram atrás delas, devagar. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}."
+     "pt-BR": "Davi acendeu a lanterna e… olha! No chão havia pegadas gigantes indo para o fundo do jardim. — São da mamãe dele! — cochichou Theo. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}.",
+     "pt-PT": "O Davi acendeu a lanterna e… olha! No chão havia pegadas gigantes a ir para o fundo do jardim. — São da mãe dele! — sussurrou o Theo. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}."
     },
     {
      "pt-BR": "Atrás das árvores estava a mamãe dinossauro: enorme, azul, com olhos doces. Ela abaixou o pescoção e encostou o focinho no filhote.",
@@ -380,8 +380,8 @@
      "pt-PT": "O Tum-Tum aninhou-se entre as patas da mãe e fechou os olhinhos. Os gémeos acenaram: — Adeus, Tum-Tum! Voltas amanhã para brincar?"
     },
     {
-     "pt-BR": "Em casa, Davi e Theo deitaram nas suas caminhas, lado a lado. Lá longe, bem longe: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}.",
-     "pt-PT": "Em casa, o Davi e o Theo deitaram-se nas suas caminhas, lado a lado. Lá longe, muito longe: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}."
+     "pt-BR": "Em casa, Davi e Theo deitaram nas suas caminhas, lado a lado. Pela janela, lá longe, os dinossauros passeavam debaixo da lua: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}.",
+     "pt-PT": "Em casa, o Davi e o Theo deitaram-se nas suas caminhas, lado a lado. Pela janela, lá longe, os dinossauros passeavam debaixo da lua: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}."
     }
    ],
    "imagens": [
