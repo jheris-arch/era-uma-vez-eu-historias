@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-30T22:08:19.924Z",
+ "atualizado": "2026-10-31T01:29:17.510Z",
  "historias": [
   {
    "id": "ajudante-do-papai-noel",
@@ -310,6 +310,96 @@
     "p13-f",
     "p14",
     "p14-f"
+   ]
+  },
+  {
+   "id": "ovo-de-dinossauro",
+   "versao": 1,
+   "lancada": "2026-11-15",
+   "free": false,
+   "color": "#7EC8B6",
+   "title": {
+    "pt-BR": "O ovo de dinossauro",
+    "pt-PT": "O ovo de dinossauro"
+   },
+   "lesson": {
+    "pt-BR": "Cuidar de quem é pequeno",
+    "pt-PT": "Cuidar de quem é pequeno"
+   },
+   "pages": [
+    {
+     "pt-BR": "No quintal, os gêmeos Davi e Theo brincavam de caçar dinossauros com uma lupa enorme. — Vem brincar com a gente, {nome}!",
+     "pt-PT": "No quintal, os gémeos Davi e Theo brincavam à caça de dinossauros com uma lupa enorme. — Anda brincar connosco, {nome}!"
+    },
+    {
+     "pt-BR": "Na caixa de areia, Theo achou uma coisa redonda, gigante e cheia de pintinhas. — É um ovo! — gritou Davi. Mostre com os braços, {nome}: de que tamanho era o ovo?",
+     "pt-PT": "Na caixa de areia, o Theo encontrou uma coisa redonda, gigante e cheia de pintinhas. — É um ovo! — gritou o Davi. Mostre com os braços, {nome}: de que tamanho era o ovo?"
+    },
+    {
+     "pt-BR": "Crac… crac… CRAAAC! Do ovo saiu um filhote de dinossauro azul, com pintinhas amarelas e um sorriso cheio de dentinhos.",
+     "pt-PT": "Crac… crac… CRAAAC! Do ovo saiu um dinossauro bebé azul, com pintinhas amarelas e um sorriso cheio de dentinhos."
+    },
+    {
+     "pt-BR": "Ele deu o primeiro passo. Pé de dinossauro faz… TUM, TUM, TUM! Pise junto, {nome}, bem forte! — O nome dele vai ser Tum-Tum! — disse Theo.",
+     "pt-PT": "Deu o primeiro passo. Pé de dinossauro faz… TUM, TUM, TUM! Pise também, {nome}, com muita força! — Vai chamar-se Tum-Tum! — disse o Theo."
+    },
+    {
+     "pt-BR": "Tum-Tum tentou rugir, mas só saiu um \"rrrí\" fininho. Os gêmeos riram: — Assim não! Rugido de dinossauro é assim: ROAAAR! Ruja você também, {nome}!",
+     "pt-PT": "O Tum-Tum tentou rugir, mas só saiu um \"rrrí\" fininho. Os gémeos riram-se: — Assim não! Rugido de dinossauro é assim: ROAAAR! Ruja também, {nome}!"
+    },
+    {
+     "pt-BR": "Tum-Tum ficou com fome. Davi ofereceu brócolis… e PFFF! O dino cuspiu tudo bem na cara do Davi!",
+     "pt-PT": "O Tum-Tum ficou com fome. O Davi deu-lhe brócolos… e PFFF! O dino cuspiu tudo mesmo para a cara do Davi!"
+    },
+    {
+     "pt-BR": "Theo ofereceu uma banana. Nhac! Tum-Tum comeu com casca e tudo e lambeu o nariz do Theo. Mastigue junto, {nome}: nhac, nhac, nhac!",
+     "pt-PT": "O Theo deu-lhe uma banana. Nhac! O Tum-Tum comeu-a com casca e tudo e lambeu o nariz do Theo. Mastigue também, {nome}: nhac, nhac, nhac!"
+    },
+    {
+     "pt-BR": "Depois, Tum-Tum quis brincar. Pé de dinossauro faz… TUM, TUM, TUM! Derrubou o castelo de blocos, o balde e a mesinha, e o Theo escorregou no rabo dele: zuuuum! [pet: Até {pet} veio ver a bagunça… e saiu correndo!]",
+     "pt-PT": "Depois, o Tum-Tum quis brincar. Pé de dinossauro faz… TUM, TUM, TUM! Deitou abaixo o castelo de blocos, o balde e a mesinha, e o Theo escorregou-lhe pela cauda: zuuuum! [pet: Até {pet} veio ver a confusão… e fugiu a correr!]"
+    },
+    {
+     "pt-BR": "O céu ficou laranja e depois azul-escuro. Tum-Tum sentou na grama e fez um \"rrrí\" bem triste. — Ele está com saudade da mamãe dele — disse Davi.",
+     "pt-PT": "O céu ficou cor de laranja e depois azul-escuro. O Tum-Tum sentou-se na relva e fez um \"rrrí\" muito triste. — Tem saudades da mãe dele — disse o Davi."
+    },
+    {
+     "pt-BR": "No chão havia pegadas gigantes indo para o fundo do jardim. Os três foram seguindo devagar. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}.",
+     "pt-PT": "No chão havia pegadas gigantes a ir para o fundo do jardim. Os três foram atrás delas, devagar. Pé de dinossauro faz… tum, tum, tum. Agora pise devagarinho, {nome}."
+    },
+    {
+     "pt-BR": "Atrás das árvores estava a mamãe dinossauro: enorme, azul, com olhos doces. Ela abaixou o pescoção e encostou o focinho no filhote.",
+     "pt-PT": "Atrás das árvores estava a mãe dinossauro: enorme, azul, com olhos doces. Baixou o pescoço comprido e encostou o focinho ao filhote."
+    },
+    {
+     "pt-BR": "Para agradecer, a mamãe dinossauro fez um rugido baixinho, que parecia canção de ninar: rrrrr… Ruja bem baixinho, {nome}, igual a ela.",
+     "pt-PT": "Para agradecer, a mãe dinossauro fez um rugido baixinho, que parecia uma canção de embalar: rrrrr… Ruja muito baixinho, {nome}, tal como ela."
+    },
+    {
+     "pt-BR": "Tum-Tum se aninhou entre as patas da mamãe e fechou os olhinhos. Os gêmeos acenaram: — Tchau, Tum-Tum! Volta amanhã para brincar?",
+     "pt-PT": "O Tum-Tum aninhou-se entre as patas da mãe e fechou os olhinhos. Os gémeos acenaram: — Adeus, Tum-Tum! Voltas amanhã para brincar?"
+    },
+    {
+     "pt-BR": "Em casa, Davi e Theo deitaram nas suas caminhas, lado a lado. Lá longe, bem longe: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}.",
+     "pt-PT": "Em casa, o Davi e o Theo deitaram-se nas suas caminhas, lado a lado. Lá longe, muito longe: tum… tum… tum… Boa noite, Davi. Boa noite, Theo. Boa noite, {nome}."
+    }
+   ],
+   "imagens": [
+    "cover",
+    "p01",
+    "p02",
+    "p03",
+    "p04",
+    "p05",
+    "p06",
+    "p07",
+    "p08",
+    "p09",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14"
    ]
   },
   {
