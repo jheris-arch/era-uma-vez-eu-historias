@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "atualizado": "2026-10-31T01:30:37.608Z",
+ "atualizado": "2026-10-31T01:31:24.849Z",
  "historias": [
   {
    "id": "ajudante-do-papai-noel",
@@ -315,7 +315,7 @@
   {
    "id": "ovo-de-dinossauro",
    "versao": 2,
-   "lancada": "2026-11-15",
+   "lancada": "2026-10-30",
    "free": false,
    "color": "#7EC8B6",
    "title": {
